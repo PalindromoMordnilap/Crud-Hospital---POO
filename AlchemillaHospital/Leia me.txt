@@ -1,0 +1,5 @@
+O main fica localizado na pasta AlchemillaHospital/src/application/main.java
+para efetuar o login é necessario entrar com os campos
+Login: Harry Mason
+Senha: Cheryl
+
